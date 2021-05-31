@@ -26,7 +26,7 @@ import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
-public class a extends Applet implements Runnable {
+public class Pitfall extends Applet implements Runnable {
 
 	// keys
 	private boolean[] a = new boolean[32768];
